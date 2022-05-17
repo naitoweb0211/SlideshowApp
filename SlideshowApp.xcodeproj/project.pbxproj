@@ -14,6 +14,9 @@
 		F275E40828335B2000CAC081 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = F275E40728335B2000CAC081 /* Assets.xcassets */; };
 		F275E40B28335B2000CAC081 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = F275E40928335B2000CAC081 /* LaunchScreen.storyboard */; };
 		F288D3E92833720C00CF5117 /* ResultViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = F288D3E82833720C00CF5117 /* ResultViewController.swift */; };
+		F2FAC39B28339695005871E0 /* slider_1.jpg in Resources */ = {isa = PBXBuildFile; fileRef = F2FAC39A28339695005871E0 /* slider_1.jpg */; };
+		F2FAC39D283396A6005871E0 /* slider_2.jpg in Resources */ = {isa = PBXBuildFile; fileRef = F2FAC39C283396A6005871E0 /* slider_2.jpg */; };
+		F2FAC39F283396AF005871E0 /* slider_3.jpg in Resources */ = {isa = PBXBuildFile; fileRef = F2FAC39E283396AF005871E0 /* slider_3.jpg */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -26,6 +29,9 @@
 		F275E40A28335B2000CAC081 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		F275E40C28335B2000CAC081 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		F288D3E82833720C00CF5117 /* ResultViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ResultViewController.swift; sourceTree = "<group>"; };
+		F2FAC39A28339695005871E0 /* slider_1.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = slider_1.jpg; sourceTree = "<group>"; };
+		F2FAC39C283396A6005871E0 /* slider_2.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = slider_2.jpg; sourceTree = "<group>"; };
+		F2FAC39E283396AF005871E0 /* slider_3.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = slider_3.jpg; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -66,6 +72,9 @@
 				F275E40728335B2000CAC081 /* Assets.xcassets */,
 				F275E40928335B2000CAC081 /* LaunchScreen.storyboard */,
 				F275E40C28335B2000CAC081 /* Info.plist */,
+				F2FAC39A28339695005871E0 /* slider_1.jpg */,
+				F2FAC39C283396A6005871E0 /* slider_2.jpg */,
+				F2FAC39E283396AF005871E0 /* slider_3.jpg */,
 			);
 			path = SlideshowApp;
 			sourceTree = "<group>";
@@ -130,7 +139,10 @@
 			files = (
 				F275E40B28335B2000CAC081 /* LaunchScreen.storyboard in Resources */,
 				F275E40828335B2000CAC081 /* Assets.xcassets in Resources */,
+				F2FAC39F283396AF005871E0 /* slider_3.jpg in Resources */,
+				F2FAC39B28339695005871E0 /* slider_1.jpg in Resources */,
 				F275E40628335B1F00CAC081 /* Main.storyboard in Resources */,
+				F2FAC39D283396A6005871E0 /* slider_2.jpg in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
