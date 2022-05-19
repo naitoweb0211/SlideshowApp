@@ -34,6 +34,8 @@ class ViewController: UIViewController {
         if (timer != nil){
             timer.invalidate()
         }
+        backButton.isEnabled = true
+        nextButton.isEnabled = true
         // segueから遷移先のResultViewControllerを取得する
         let resultViewController:ResultViewController = segue.destination as! ResultViewController
         // 遷移先のResultViewControllerで宣言しているx, yに値を代入して渡す
